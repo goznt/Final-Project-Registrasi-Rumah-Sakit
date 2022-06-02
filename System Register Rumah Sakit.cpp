@@ -2,7 +2,7 @@
 //	Nama : Ketut Gede Rai Wistika Putra
 //	NIM  : 210030178
 //	BC213
-//	Prak Algoritmat Basis Data
+//	Prak Algoritma Basis Data
 //     FINAL PROJECT
 #include <iostream>
 #include <conio.h>
